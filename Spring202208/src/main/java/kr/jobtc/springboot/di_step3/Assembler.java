@@ -3,7 +3,7 @@ package kr.jobtc.springboot.di_step3;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-@Configuration
+//@Configuration
 public class Assembler {
 		
 	@Bean
